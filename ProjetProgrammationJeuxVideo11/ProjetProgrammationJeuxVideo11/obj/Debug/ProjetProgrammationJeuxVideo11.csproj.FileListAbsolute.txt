@@ -1,0 +1,7 @@
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\bin\Debug\ProjetProgrammationJeuxVideo11.exe.config
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\obj\Debug\ProjetProgrammationJeuxVideo11.csprojResolveAssemblyReference.cache
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\bin\Debug\ProjetProgrammationJeuxVideo1.XML
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\bin\Debug\ProjetProgrammationJeuxVideo11.exe
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\bin\Debug\ProjetProgrammationJeuxVideo11.pdb
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\obj\Debug\ProjetProgrammationJeuxVideo11.exe
+C:\Users\MSI_USER\Desktop\Nouveau dossier\ProjetProgrammationJeuxVideo11\ProjetProgrammationJeuxVideo11\obj\Debug\ProjetProgrammationJeuxVideo11.pdb
