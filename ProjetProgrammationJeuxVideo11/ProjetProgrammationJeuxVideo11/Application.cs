@@ -20,7 +20,7 @@ namespace ProgrammationJeuxVideo1
       {
         Console.WriteLine("Frank is ostheoporosis");
         Console.WriteLine("FUCK ME DADDYYYYYYY");
-        Console.WriteLine("PULL THIS!");
+        Console.WriteLine("Sayonara nigaaaaaaa");
       }
 
     }
