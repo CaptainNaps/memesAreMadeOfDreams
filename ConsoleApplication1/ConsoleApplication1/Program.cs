@@ -18,8 +18,8 @@ namespace ConsoleApplication1
         Console.WriteLine("Bronies");
 =======
       Console.WriteLine("Suck my dick");
-      string[] killMe = new string[] {"lit"};
-      for (int i = 0; i < 10000; i++)
+      string[] killMe = new string[69];
+      for (int i = 0; i < 70; i++)
       {
         killMe[i] = "lit";
       }
