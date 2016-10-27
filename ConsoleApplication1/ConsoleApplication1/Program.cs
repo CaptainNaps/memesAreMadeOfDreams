@@ -12,6 +12,11 @@ namespace ConsoleApplication1
     {
       Console.WriteLine("Suck my dick");
       Console.WriteLine("CYKA BLYAT RUSH B");
+
+      for (int i = 0; i < 200; i++)
+      {
+        Console.WriteLine("Ben est un Bronie");
+      }
     }
   }
 }
