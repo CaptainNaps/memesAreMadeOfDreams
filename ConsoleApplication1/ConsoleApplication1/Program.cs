@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,14 +11,15 @@ namespace ConsoleApplication1
     static void Main(string[] args)
     {
       Console.WriteLine("Suck my dick");
-      string[] killMe = new string[];
-      for(int i = 0; i<10000; i++)
+      string[] killMe = new string[] {"lit"};
+      for (int i = 0; i < 10000; i++)
       {
         killMe[i] = "lit";
       }
-      foreach (string "lit" in killMe)
+
+      foreach (string item in killMe)
       {
-        Console.WriteLine("Ahegao is love")
+        Console.WriteLine("Ahegao is love");
       }
     }
   }
