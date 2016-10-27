@@ -11,6 +11,7 @@ namespace ConsoleApplication1
     static void Main(string[] args)
     {
       Console.WriteLine("Suck my dick");
+      Console.WriteLine("CYKA BLYAT RUSH B");
     }
   }
 }
